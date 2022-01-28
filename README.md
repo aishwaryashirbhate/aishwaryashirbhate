@@ -3,7 +3,7 @@
 - 🎮 New found interest: Love to make simple games using Python
 - 🌱 I’m currently pursuing Masters in Computer Science @ Stevens Institute of Technology, NJ
 - 💞️ I’m looking to collaborate on projects for Web Prog, Database Management systems and Data Mining.
-- 📫 How to reach me at ashirbha@stevens.edu
+- 📫 Reach me at ashirbha@stevens.edu
 
 <!---
 aishwaryashirbhate/aishwaryashirbhate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
