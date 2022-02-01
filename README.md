@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aishwarya Shirbhate
 - 👀 I’m interested in Web Programming, Data Mining, Data Warehousing and Analytics and DBMS
-- 🎮 New found interest: Love to make simple games using Python
 - 🌱 I’m currently pursuing Masters in Computer Science @ Stevens Institute of Technology, NJ
 - 💞️ I’m looking to collaborate on projects for Web Prog, Database Management systems and Data Mining.
 - 📫 Reach me at ashirbha@stevens.edu
