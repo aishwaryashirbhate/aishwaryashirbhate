@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming, Data Mining, Data Warehousing and Analytics and DBMS
 - 🌱 I’m currently pursuing Masters in Computer Science @ Stevens Institute of Technology, NJ
 - 💞️ I’m looking to collaborate on projects for Web Prog, Database Management systems and Data Mining.
-- 📫 Reach me at ashirbha@stevens.edu
+- 📫 Reach me at aishshirbhate03@gmail.com
 
 <!---
 aishwaryashirbhate/aishwaryashirbhate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
